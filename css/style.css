@@ -34,7 +34,7 @@ canvas.active {
   transition: all 0.3s;
 }
 #section0.active p {
-  right: -300px;
+  right: -250px;
 }
 #section0.active .logo {
   top: 30px;
