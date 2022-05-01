@@ -43,7 +43,7 @@ canvas.active {
   position: absolute;
   right: -400px;
   font-size: 55px;
-  color: #fff;
+  color: rgb(7, 7, 7);
   top: 47%;
   transform: rotate(270deg) translateY(-50%);
   margin: 0;
@@ -71,6 +71,7 @@ canvas.active {
   opacity: 0;
   transform: scale(3);
   transition: all 1s;
+  color: #000;
 }
 
 #section1 .box-detail h2 {
