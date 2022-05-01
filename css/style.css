@@ -10,7 +10,7 @@ canvas {
   top: 50%;
   transform: translate(-50%, -50%) scale(1.5);
   max-width: 100vw;
-  max-height: 100vh;
+  height: 100%;
   transition: all 1s;
 }
 canvas.active {
